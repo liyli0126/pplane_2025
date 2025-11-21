@@ -1,4 +1,4 @@
-function output = pplane8(action,input1,input2,input3)
+ function output = pplane8(action,input1,input2,input3)
 
 %   pplane8  is an interactive tool for studying planar autonomous systems of
 %	differential equations.  When pplane8 is executed, a pplane8 Setup
